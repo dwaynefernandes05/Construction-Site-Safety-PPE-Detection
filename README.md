@@ -56,7 +56,7 @@ Then open http://localhost:8501 in your browser.
 
 **Output (Detected):**
 
-<img src="assets/result_image.jpg" width="400"/>
+<img src="assets/result_image.png" width="400"/>
 
 ---
 
