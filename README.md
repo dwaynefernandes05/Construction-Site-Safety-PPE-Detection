@@ -64,11 +64,11 @@ Then open http://localhost:8501 in your browser.
 
 **Input Video:**
 
-[video.mp4](https://user-images.githubusercontent.com/yourusername/assets/video.mp4)
+[video.mp4](https://user-images.githubusercontent.com/dwaynefernandes05/assets/video.mp4)
 
 **Output Image:**
 
-[result_video.avi](https://user-images.githubusercontent.com/yourusername/assets/result_video.avi)
+[result_video.avi](https://user-images.githubusercontent.com/dwaynefernandes05/assets/result_video.avi)
 
 ## 🛠️ How it works
 Upload a file using the file uploader.
