@@ -60,16 +60,6 @@ Then open http://localhost:8501 in your browser.
 
 ---
 
-## 🎥 Example: Video Detection
-
-**Input Video:**
-
-[video.mp4](https://user-images.githubusercontent.com/dwaynefernandes05/assets/video.mp4)
-
-**Output Image:**
-
-[result_video.avi](https://user-images.githubusercontent.com/dwaynefernandes05/assets/result_video.avi)
-
 ## 🛠️ How it works
 Upload a file using the file uploader.
 
