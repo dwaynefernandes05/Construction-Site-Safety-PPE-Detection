@@ -64,29 +64,22 @@ Then open http://localhost:8501 in your browser.
 
 **Input Video:**
 
-<video width="480" controls>
-  <source src="assets/input.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[video.mp4](https://user-images.githubusercontent.com/yourusername/assets/video.mp4)
 
 **Output Image:**
 
-<video width="480" controls>
-  <source src="assets/output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[result_video.avi](https://user-images.githubusercontent.com/yourusername/assets/result_video.avi)
 
 ## 🛠️ How it works
 Upload a file using the file uploader.
 
 YOLOv8 processes it using model.predict().
 
-For images:
+**For images:**
 
 Shows the detected result right on the page.
 
-For videos:
+**For videos:**
 
 Saves the result in runs/detect/ and prints the file path.
 
